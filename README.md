@@ -1,4 +1,4 @@
-# Welcome to Buffalo!
+# Welcome to this modified Buffalo template - which comes preconfigured to fit a Svelte Front-End!
 
 Thank you for choosing Buffalo for your web development needs.
 
